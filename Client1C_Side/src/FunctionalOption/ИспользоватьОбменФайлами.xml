@@ -17,7 +17,6 @@
 				<xr:Object>DataProcessor.ПрикрепленинеФайлов.Command.ОткрытьСписокФайлов</xr:Object>
 				<xr:Object>DataProcessor.ПрикрепленинеФайлов.Command.ПрикрепитьФайл</xr:Object>
 				<xr:Object>Constant.НастройкиОбменаФайлами</xr:Object>
-				<xr:Object>Constant.ИспользоватьОбменФайлами</xr:Object>
 			</Content>
 		</Properties>
 	</FunctionalOption>
