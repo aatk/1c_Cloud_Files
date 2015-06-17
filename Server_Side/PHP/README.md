@@ -1,1 +1,1 @@
-Οεπεθμενσιςε τΰιλ ht.access β .htaccess
+ΠΠµΡ€ΠµΠΈΠΌΠµΠ½ΡƒΠΉΡ‚Πµ Ρ„Π°ΠΉΠ» ht.access Π² .htaccess
